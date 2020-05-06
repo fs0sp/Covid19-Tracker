@@ -5,7 +5,7 @@ A new Flutter project.
 ## Have a Look
 
 ![alt text](/first.jpg) ![alt text](/second.jpg) 
-![alt text](/third.jpg) ![alt text](/fouth.jpg) 
+![alt text](/third.jpg) ![alt text](/fourth.jpg) 
 
 ## Features:
 
