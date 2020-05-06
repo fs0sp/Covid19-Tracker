@@ -1,16 +1,19 @@
-# covid19_tracker
+# Covid19 Tracker
 
 A new Flutter project.
 
-## Getting Started
+## Have a Look
 
-This project is a starting point for a Flutter application.
+![alt text](/first.jpg) ![alt text](/second.jpg) 
+![alt text](/third.jpg) ![alt text](/fouth.jpg) 
 
-A few resources to get you started if this is your first Flutter project:
+## Features:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Dark Mode
+* Country Stats
+* Realtime Country Search
+* Charts
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Inspired By [@TGD](https://github.com/singh-saheb)  :pray:
