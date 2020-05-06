@@ -27,6 +27,9 @@ dependencies:
   url_launcher:
   shared_preferences:
   http:
+  dynamic_theme:
+  pie_chart:
+    
   
 dev_dependencies:
   flutter_test:

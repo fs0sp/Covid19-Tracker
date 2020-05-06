@@ -4,7 +4,7 @@ Color primaryBlack = Color(0xff202c3b);
 
 class DataSource {
   static String quote =
-      "Covid19 Tracker is a one stop for verified data and news. We are consuming a free API to display the data. ";
+      "Covid19 Tracker is a one stop applicaition for verified data and news. We are consuming a free API to display the data. ";
 
   static List questionAnswers = [
     {
