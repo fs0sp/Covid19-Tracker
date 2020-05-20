@@ -36,7 +36,7 @@ class _CovidChartState extends State<CovidChart> {
       appBar: AppBar(
         title: Text('Visualize'),
       ),
-      body: Container(
+      body: worldData == null ? Center(child: CircularProgressIndicator(),) : Container(
         child: PieChart(dataMap: {
           'Confirmed' : worldData['cases'].toDouble(),
           'Active' : worldData['active'].toDouble(),

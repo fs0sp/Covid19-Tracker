@@ -1,13 +1,15 @@
-# Covid19 Tracker
+# Covid19 Tracker :fire:
 
 A new Flutter project.
 
-## Have a Look
+## Have a Look :fire:
 
-![alt text](/first.jpg) ![alt text](/second.jpg) 
-![alt text](/third.jpg) ![alt text](/fourth.jpg) 
+<img src="/first.jpg" width="300" height="600"> <img src="/second.jpg" width="300" height="600">
+<img src="/third.jpg" width="300" height="600"> <img src="/fourth.jpg" width="300" height="600">
 
-## Features:
+
+
+## Features: :fire:
 
 * Dark Mode
 * Country Stats
